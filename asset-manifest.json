@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/instagramTask/static/css/main.a56f8338.css",
+    "main.js": "/instagramTask/static/js/main.a2655b26.js",
+    "static/js/787.28cb0dcd.chunk.js": "/instagramTask/static/js/787.28cb0dcd.chunk.js",
+    "static/media/profileImage.jpg": "/instagramTask/static/media/profileImage.0395b60a0e43fa35ce8a.jpg",
+    "index.html": "/instagramTask/index.html",
+    "main.a56f8338.css.map": "/instagramTask/static/css/main.a56f8338.css.map",
+    "main.a2655b26.js.map": "/instagramTask/static/js/main.a2655b26.js.map",
+    "787.28cb0dcd.chunk.js.map": "/instagramTask/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56f8338.css",
+    "static/js/main.a2655b26.js"
+  ]
+}
